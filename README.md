@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KishanKumar08?tab=repositories](https://github.com/KishanKumar08?tab=repositories)
 
-- 📫 Reach out of me on **kmali4551@gmail.com**
+- 📫 Reach out to me on **kmali4551@gmail.com**
 
 
 <h1>🌐 Socials</h1>
