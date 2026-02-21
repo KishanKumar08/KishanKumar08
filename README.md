@@ -1,106 +1,83 @@
-# 🚀 Hi, I'm Kishan Kumar
+# Kishan Kumar
 
-Backend & AI Engineer building scalable distributed systems, real-time pipelines, and production-grade AI infrastructure.
-
----
-
-## 🧠 About Me
-
-- 🏗 Backend Engineer with production experience in distributed systems
-- ⚡ Improved system throughput **3×** using async processing, Redis, and Kafka
-- 📉 Reduced backend processing time by **54%** through architecture redesign
-- 🤖 Built production LLM + RAG pipelines improving extraction accuracy by **40%**
-- 🌍 Based in Rajasthan, India
-- 🎯 Focused on scalability, fault tolerance, and performance engineering
+Backend & AI Engineer building scalable distributed systems, event-driven pipelines, and production-grade LLM infrastructure.
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### 👨‍💻 Languages
-- Python
-- TypeScript
-- JavaScript
+I specialize in designing and operating distributed backend systems that handle real-world production workloads reliably and efficiently.
 
-### ⚙ Backend & APIs
-- FastAPI
-- Django
-- Node.js
-- Express.js
-- REST APIs
-- gRPC
-- WebSockets
-- Microservices
-- Event-Driven Architecture
+Currently working as an AI Engineer at **Insurance Samadhan**, where I:
 
-### 🗄 Databases
-- PostgreSQL
-- MongoDB
-- Redis
+- Architect Kafka-based event-driven microservices
+- Build production LLM + RAG pipelines
+- Optimize backend systems for throughput and latency
+- Design fault-tolerant async processing workflows
+- Implement observability and centralized logging infrastructure
 
-### 📡 Distributed Systems
-- Apache Kafka
-- RabbitMQ
-- Async Processing
-- Caching
-- Horizontal Scaling
-
-### ☁ Cloud & DevOps
-- AWS
-- GCP
-- Docker
-- Nginx
-- Jenkins
-
-### 📊 Monitoring & Observability
-- Prometheus
-- Grafana
+Key Impact:
+- Increased system throughput **3×**
+- Reduced backend latency by **56%**
+- Lowered infrastructure costs by **92%**
+- Improved document extraction accuracy by **40%**
 
 ---
 
-## 💼 Experience
+## Core Expertise
 
-### AI Engineer — Insurance Samadhan (Jan 2025 – Present)
+**Distributed Systems**
+- Kafka, Redis, Event-Driven Architecture
+- Idempotent Consumers, Dead-Letter Queues
+- Async Processing & Concurrency Control
+- Horizontal Scaling & Caching Strategies
 
-- Designed full-stack v-KYP platform (React + Django + MongoDB + Docker)
-- Built production LLM + RAG pipelines with vector database integration
-- Implemented distributed async pipelines using Kafka + Redis
-- Developed scalable REST APIs using FastAPI
-- Engineered real-time communication using WebSockets
-- Re-architected backend workflows improving performance by 54%
-- Implemented retry mechanisms, validation layers, and failure recovery logic
-- Owned backend systems end-to-end: architecture → deployment → monitoring
+**AI Systems Engineering**
+- Production LLM Applications
+- RAG Pipelines & Embeddings
+- Vector Databases
+- AI Workflow Optimization
 
-### Python Developer — Insurance Samadhan (Sep 2024 – Dec 2024)
+**Backend Engineering**
+- Python, Node.js, TypeScript
+- FastAPI, Django, Express.js
+- REST, gRPC, WebSockets
+- MongoDB, PostgreSQL
 
-- Developed and maintained backend services in Python and Node.js
-- Optimized MongoDB indexing strategies and schema design
-
----
-
-## 📂 Featured Projects
-
-### 🔐 VID (Verifiable Identifier)
-Cryptographically verifiable, globally unique identifier system built for distributed systems.
-- HMAC-based signature validation
-- Designed for high-scale environments
-- Published as `@veridjs/core`
-
-Explore more projects:
-👉 https://github.com/KishanKumar08
+**Observability & Infrastructure**
+- Prometheus, Grafana
+- Centralized Logging Systems
+- Docker, AWS, GCP
 
 ---
 
-## 📫 Connect With Me
+## Featured Project
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kishan-kumar08/
-- 📧 Email: kmali4551@gmail.com
+### VID — Verifiable Distributed ID System
+
+A cryptographically verifiable, time-sortable distributed identifier system designed for high-concurrency environments.
+
+- 18-byte compact format
+- HMAC-SHA256 signature validation
+- Monotonic sequencing with deterministic conflict resolution
+- Benchmarked with 10M+ parallel ID generations (zero collisions)
+
+Repository:
+https://github.com/KishanKumar08/veridjs
+
 ---
 
-## 🎯 Engineering Philosophy
+## Engineering Approach
 
-- Build systems that scale
-- Optimize for performance and reliability
-- Design for fault tolerance from day one
-- Write clean, maintainable backend code
-- Ship AI systems that work in production
+- Design for failure from day one
+- Optimize for performance and cost
+- Build systems that scale predictably
+- Keep architecture clean and observable
+- Ship AI systems that work in production, not demos
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/kishan-kumar08/  
+Email: kmali4551@gmail.com
